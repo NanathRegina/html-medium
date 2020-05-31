@@ -1,4 +1,4 @@
-## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
+## Aplicação criada para o passo a passo do Medium.
 Aplicação simples de portfolio em python e html.
 Veja a aplicação aqui: https://app-portfolio-nath.herokuapp.com/
 
